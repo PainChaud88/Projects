@@ -1,6 +1,7 @@
 ### ¡Hello! My name is Francisco, I'm a Data Analyst 📈
 
-I'm dedicated to decoding **data** to find insights that lead to informed **decision-making**. My key strengths are **critical thinking**, **problem-solving**, and a meticulous **attention to detail**.
+#### I'm dedicated to decoding **data** to find insights that lead to informed **decision-making**. My key strengths are **critical thinking**, **problem-solving**, and a meticulous **attention to detail**.
+
 ---
 **🛠️ Core Competencies:**
 
